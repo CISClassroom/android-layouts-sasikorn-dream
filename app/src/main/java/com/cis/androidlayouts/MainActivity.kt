@@ -14,11 +14,15 @@ class MainActivity : AppCompatActivity() {
             startActivity(i)
         }
         button2.setOnClickListener{
-            val i = Intent(this,ConstantActivity::class.java)
+            val i = Intent(this,RelativeActivity::class.java)
             startActivity(i)
         }
         button3.setOnClickListener{
-            val i = Intent(this,RelativeActivity::class.java)
+            val i = Intent(this,ConstantActivity::class.java)
+            startActivity(i)
+        }
+        button5.setOnClickListener{
+            val i = Intent(this,ProfileActivity::class.java)
             startActivity(i)
         }
     }
