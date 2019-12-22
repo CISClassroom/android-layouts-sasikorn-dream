@@ -10,8 +10,6 @@ class ConstantActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_constant)
 
-        button6.setOnClickListener{
-            this.finish()
-        }
+
     }
 }

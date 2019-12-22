@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
             val i = Intent(this,ConstantActivity::class.java)
             startActivity(i)
         }
-        button5.setOnClickListener{
+        button6.setOnClickListener{
             val i = Intent(this,ProfileActivity::class.java)
             startActivity(i)
         }

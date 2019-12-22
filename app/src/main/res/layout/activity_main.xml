@@ -33,15 +33,15 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:backgroundTint="#FF9800"
-        android:text="Constant"
+        android:text="Constants"
         tools:layout_editor_absoluteX="161dp"
         tools:layout_editor_absoluteY="221dp" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/button6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:backgroundTint="#2196F3"
         android:text="Profile" />
+
 </LinearLayout>
