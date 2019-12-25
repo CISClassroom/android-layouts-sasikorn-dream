@@ -76,7 +76,7 @@
         android:layout_marginTop="-50dp"
         android:layout_marginEnd="182dp"
         android:layout_marginBottom="10dp"
-        android:text="Favorite Song : Lily"
+        android:text="Favorite Song : Lily-alan walker"
         android:textSize="18sp" />
 
     <TextView
